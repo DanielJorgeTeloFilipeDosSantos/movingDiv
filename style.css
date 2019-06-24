@@ -1,0 +1,43 @@
+#pri{
+    width:100vw;
+    height:100vh;
+    background-color: yellow;
+    color:white;
+    position: relative;
+}
+#div{
+    width:100px;
+    height:100px;
+    background-color: brown;
+    color:white;
+    position: absolute;
+    left: 1px;
+    top:1px;
+}
+#div2{
+    width:100px;
+    height:100px;
+    background-color: blue;
+    color:white;
+    position: absolute;
+    left: 50px;
+    top:50px;
+}
+#div3{
+    width:100px;
+    height:100px;
+    background-color: green;
+    color:white;
+    position: absolute;
+    left: 100px;
+    top:100px;
+}
+#div4{
+    width:100px;
+    height:100px;
+    background-color: aqua;
+    color:white;
+    position: absolute;
+    left: 150px;
+    top:150px;
+}
