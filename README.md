@@ -1,4 +1,8 @@
 # movingDiv
+
+![alt text](https://github.com/DanielJorgeTeloFilipeDosSantos/movingDiv/blob/master/Screen%20Shot%202019-06-25%20at%201.36.08%20AM.png)
+
+
 A javascript algorithm that moves divs in a html page 
 
 So you click the div, move it with the mouse, and click again to drop it where you want on the web page.
