@@ -10,6 +10,6 @@ So you click the div, move it with the mouse, and click again to drop it where y
 This can be used in a webbar, taking out the y and leaving the pageX coordenate, when it reaches a certain point,
 it can trigger a function.
 
-(click) a -----(onmousemove) div ----- > b (click)
+(click) a -----(onmousemove) div ----- > b (click)(//do something)
 
 An example can be found here:  https://danieljorgetelofilipedossantos.github.io/movingDiv/
